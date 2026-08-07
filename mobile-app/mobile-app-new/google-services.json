@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "895804894184",
+    "firebase_url": "https://community-ai-cffa6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "community-ai-cffa6",
+    "storage_bucket": "community-ai-cffa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895804894184:android:5d962007fc8a4bf97b925d",
+        "android_client_info": {
+          "package_name": "com.ponmitha.communityai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLChGoPkZJAQ03I6JyZ1XO42Ibk_R3ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
