@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://10.56.6.130:5000/api",
+  baseURL: "https://community-ai-app-3.onrender.com/api",
 });
 
 export default api;
